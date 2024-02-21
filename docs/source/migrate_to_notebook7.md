@@ -3,7 +3,7 @@
 _Updated 2023-05-17_
 
 ```{warning}
-Version 7 of the Jupyter Notebook application might break your
+Version 8 of the Jupyter Notebook application might break your
 extensions or other customizations. Please read this page to find out if you
 need to take any actions to ensure a smooth, uninterrupted experience.
 ```
